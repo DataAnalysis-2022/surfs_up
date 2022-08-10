@@ -12,7 +12,7 @@ We will provide more information about temperature trends before the owner decid
 
  The Summary Statistics for June and December are shown below:
 
-![image-20220807181422307](Resources\image-20220807181422307.png)                                      ![image-20220807181508852](Resources\image-20220807181508852.png)
+![image-20220807181422307](Resources/image-20220807181422307.png)                                      ![image-20220807181508852](Resources/image-20220807181508852.png)
 
 ​			June Statistics															December Statistics
 
